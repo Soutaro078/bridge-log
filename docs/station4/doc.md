@@ -24,6 +24,3 @@ https://docs.google.com/document/d/153KhAXFqby0yBsZG8mXWyDNmrZnpi1rDgo7vcePNdh0/
 
 ### WBS
 https://www.notion.so/26e78cace2a2808aaf62fbd368eb13c0?source=copy_link
-
-### テーブル定義書
-https://docs.google.com/document/d/1Ygud1s9xkhwIMMfefbqxcz6h4FR4PryxjeBTJ8YUbLU/edit?tab=t.0
